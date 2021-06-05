@@ -1,1 +1,2 @@
-# To run rspec: `rspec .`
+# Tests
+Run in terminal `rspec .`
